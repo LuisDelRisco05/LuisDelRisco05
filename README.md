@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-_I'm a Frontend web developer, I'm Colombian, passionate about learning and teaching._
+_I'm a Frontend web developer, I'm Colombian, passionate about learning and to work as a team._
 
 :zap:Skills
 ======
