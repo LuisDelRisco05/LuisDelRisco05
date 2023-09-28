@@ -16,7 +16,7 @@ _I'm a Frontend web developer, I'm Colombian, passionate about learning and to w
 | <p align="center"> <img width='50' height='40' src="https://i.imgur.com/BTVaYtI.png"/> </p>  | <h3>Visual Studio Code</h3> | <p align="center"> &#x2b50;&#x2b50; </p> |
 | <p align="center"> <img width='45' height='40' src="https://i.imgur.com/sEpXsgv.png"/> </p>  | <h3>React Native</h3> | <p align="center"> &#x2b50;&#x2b50;&#x2b50; |
 | <p align="center"> <img width='50' height='50' src="https://img.icons8.com/color/48/000000/typescript.png"/> </p>  | <h3>TypeScript</h3> | <p align="center"> &#x2b50;&#x2b50; |
-| <p align="center"> <img width='50' height='50' src="https://i.imgur.com/UIBg9az.png"/> </p>  | <h3>TailwindCss</h3> | <p align="center"> &#x2b50;&#x2b50;&#x2b50; |
+| <p align="center"> <img width='50' height='50' src="https://i.imgur.com/UIBg9az.png"/> </p>  | <h3>TailwindCss</h3> | <p align="center"> &#x2b50;&#x2b50;&#x2b50;&#x2b50; |
 
 
 
